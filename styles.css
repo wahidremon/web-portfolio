@@ -167,10 +167,10 @@ body {
     height: 500px;
 }
 .experienc-left {
-    width: 45%;
+    width: 43%;
     float: left;
     border-left: 6px solid;
-    border-image: linear-gradient(180deg, #0002FF, #00FBFF);
+    border-image: linear-gradient(180deg, #FF9E79, #FF6549);
     border-image-slice: 1;
     padding-left: 3%;
     box-shadow: 5px 5px 30px 3px #888888;
@@ -191,7 +191,7 @@ body {
     margin-top: 20px;
 }
 .experienc-right {
-    width: 45%;
+    width: 43%;
     float: right;
     border-left: 6px solid;
     border-image: linear-gradient(180deg, #0002FF, #00FBFF);
